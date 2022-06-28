@@ -1,0 +1,15 @@
+.contact{
+    padding: 50px;
+    margin-left: 300px;
+    margin-bottom: 70px;
+}
+
+.contact h2{
+    color: rgb(16, 16, 110);
+    border-bottom: 2px solid blue;
+    font-size: 30px;
+}
+
+.cheadans{
+    margin-bottom: 20px;
+}

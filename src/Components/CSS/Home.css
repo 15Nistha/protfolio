@@ -1,0 +1,30 @@
+.home{
+    width: 80%;
+    height: 768px;
+    background-image: url('../Image/back5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -20px;
+    margin-left: 300px;
+    margin-right: 0;    
+}
+.h1{
+    display: flex;
+}
+
+.name1{
+    color: aliceblue;
+    text-align: center;
+    display: block;
+    margin-top: 370px;
+    font-size: 50px;
+  
+}
+
+.prot{
+    color: aliceblue;
+    text-align: center; 
+    font-size: 22px;
+    margin-top: -40px;
+   
+}

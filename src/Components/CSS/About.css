@@ -1,0 +1,83 @@
+.about{
+    margin-left: 300px;
+    margin-top: 100px;
+    padding: 50px;
+}
+
+.a1{
+    display: flex;
+}
+
+.about h2{
+    color: rgb(16, 16, 110);
+    border-bottom: 2px solid blue;
+    font-size: 30px;
+}
+
+.imgabout{
+    display: grid;
+    place-items: left;    
+    display: flex;
+}
+
+.imgab{
+    width: 220px;
+    height: 270px;
+    border-radius: 2%;
+    border: 1px solid rgb(58, 56, 56);
+}
+
+.self{
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.self h4{
+    font-size: 24px;
+    margin-top: -7px;
+    color: rgb(16, 16, 110);
+}
+
+.self p{
+    font-size: 19px;
+    margin-top: -10px;
+}
+
+.details{
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.dd{
+    display: flex;
+    font-size: 18px;
+    padding-top: 10px;}
+
+.det{
+    margin-bottom: 8px;
+}
+
+.d0{
+    width: 50%;
+}
+.d1{
+    width: 50%;
+}
+
+.objective{
+    padding: 5px;
+}
+
+.objective h4{
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.objective p{
+    font-size: 18px;
+    text-align: justify;
+}
